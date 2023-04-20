@@ -25,7 +25,7 @@ jobs:
       - name: Use Node.js ${{ matrix.node-version }}
 
     # Repositorio que será utilizado para gerar os arquivos.
-      - uses: actions/setup-node@v2
+      - uses: Platane/snk@master
         id: snake-gif
         with:
           node-version: ${{ matrix.node-version }}
