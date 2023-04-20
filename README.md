@@ -46,4 +46,4 @@ Here are some ideas to get you started:
   
   ##
   
-  ![snake gif](https://github.com/zDEVCz/snk@master/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/zDEVCz/zDEVCz/blob/output/github-contribution-grid-snake.svg)
