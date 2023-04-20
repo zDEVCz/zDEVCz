@@ -1,19 +1,24 @@
 name: Generate Datas
 on:
   schedule: # execute every 12 hours
-    - cron: "* */16 * * *"
+    - cron: "* */12 * * *"
   workflow_dispatch:
 jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+       node-version: [16.x]
     steps:
       # Summary Cards
       - uses: actions/checkout@v2
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
+          node-version: ${{ matrix.node-version }}
           USERNAME: ${{ github.repository_owner }}
       # Snake Animation
       - uses: Platane/snk@master
