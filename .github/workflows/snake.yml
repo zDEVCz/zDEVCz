@@ -14,15 +14,21 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [16.x]
+
     steps:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v2
+      - name: Use Node.js ${{ matrix.node-version }}
 
     # Repositorio que será utilizado para gerar os arquivos.
-      - uses: Platane/snk@master
+      - uses: actions/setup-node@v2
         id: snake-gif
         with:
+          node-version: ${{ matrix.node-version }}
           github_user_name: zDEVCz #Seu usuario
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
