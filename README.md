@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 <img height="180em" src="http://github-readme-stats.vercel.app/api?username=zDEVCz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" align="right"/>
 
-<img height="100em" src="http://github-readme-stats.vercel.app/api/top-langs/?username=zDEVCz&layout=compact&langs_count=16&theme=midnight-purple" align="right"/>
-
 ## :space_invader: Hi there! Eu sou Cauã Caetano 👋
 
 - 🌱 I’m currently learning Computer engineering
