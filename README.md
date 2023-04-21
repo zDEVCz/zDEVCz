@@ -1,7 +1,3 @@
-### Hi there! Eu sou Cauã Caetano 👋
-
-- 🌱 I’m currently learning Computer engineering
-
 <!--
 **zDEVCz/zDEVCz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,16 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##
+<img height="180em" src="http://github-readme-stats.vercel.app/api?username=zDEVCz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 
- <div>
-    <a href=""></a>
-    <img height="180em" src="http://github-readme-stats.vercel.app/api?username=zDEVCz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="http://github-readme-stats.vercel.app/api/top-langs/?username=zDEVCz&layout=compact&langs_count=16&theme=midnight-purple"/>
+<img height="180em" src="http://github-readme-stats.vercel.app/api/top-langs/?username=zDEVCz&layout=compact&langs_count=16&theme=midnight-purple" align="right"/>
 
- </div>
+## :space_invader: Hi there! Eu sou Cauã Caetano 👋
 
-##
+- 🌱 I’m currently learning Computer engineering
+
+### > Programming languages I love to work in
 
  <div style="display: inline_block"><br>
     <img align="center" alt="Caua-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -36,7 +31,7 @@ Here are some ideas to get you started:
     <img align="center" alt="Caua-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  </div>
   
-  ##
+  ### > My Social Medias
   
   <div>
     <a href="https://instagram.com/cauaacamargoo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
