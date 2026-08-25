@@ -1,109 +1,78 @@
 <div align="center">
-  <a href="https://github.com/zDEVCz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zDEVCz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zDEVCz&layout=compact&langs_count=16&theme=midnight-purple"/>
+
+# Cauã Caetano de Camargo
+**Engenharia da Computação | Automação de Processos, Dados & Infraestrutura de TI**
+
+Guarulhos, São Paulo, Brasil
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%A3-caetano-898033207/)
+[![Email](https://img.shields.io/badge/Email-caua.caetano09%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:caua.caetano09@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-zDEVCz-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zDEVCz)
+
+---
+
 </div>
 
-## 👋 Olá! Eu sou o Cauã Caetano
+## Resumo Executivo & Trajetória Técnica
 
-<p align="left"> 
-  Como estudante de Engenharia da Computação, busco ativamente oportunidades para combinar minha paixão por <strong>cibersegurança</strong> e <strong>desenvolvimento de software</strong>. Ao longo de minha formação, adquiri uma base sólida em suporte técnico e me tornei fluente em Inglês e Espanhol, o que me permite lidar com desafios técnicos e de comunicação em ambientes diversos. Estou pronto para aplicar minhas habilidades em um ambiente prático, com foco em crescimento, autonomia e superação de desafios, contribuindo para a inovação em projetos tecnológicos.
-</p>
+Minha atuação em tecnologia integra **infraestrutura de redes, desenvolvimento de software e automação de dados**. Minha base acadêmica foi construída na **Engenharia de Telecomunicações na UNESP**, onde desenvolvi forte raciocínio lógico, análise de sinais e arquitetura de redes. Com o objetivo de focar no desenvolvimento de software e inteligência de dados aplicada, migrei para o bacharelado em **Engenharia da Computação no Centro Universitário ENIAC**.
 
-- 🎓 Cursando **Engenharia de Computação** no `Centro Universitário ENIAC`
-- 💼 Experiência em **Suporte Técnico**, **Análise de Dados com SQL** e **Atendimento ao Cliente**.
-- 🚀 Tenho grande interesse em **Cibersegurança**, **Desenvolvimento Full-Stack** e **Business Intelligence**.
-- 📫 Contato: **[caua.caetano09@gmail.com](mailto:caua.caetano09@gmail.com)**
+Sou especializado na criação de automações utilizando **Python, SQL e integração de APIs de Inteligência Artificial (LLMs)**, combinadas com as melhores práticas de governança do framework **ITIL 4**. Tenho foco na transformação de processos operacionais manuais em sistemas escaláveis, atuando desde a gestão de ativos e chamados de TI até a análise preditiva de logs e automação industrial.
 
 ---
 
-### 🛠️ Habilidades Técnicas
+## Matriz de Competências Técnicas (ATS)
 
-<div style="display: inline_block"><br>
-  <h4>Linguagens e Ferramentas</h4>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
-</div>
+| Domínio Técnico | Tecnologias, Linguagens e Frameworks |
+| :--- | :--- |
+| **Desenvolvimento & Backend** | Python, SQL, C#, PHP, JavaScript (Node.js), HTML5/CSS3, VBA |
+| **Engenharia de Dados & IA** | SQL (SQLite, MySQL), Pandas, Power BI, Integração de APIs LLM (Gemini, DeepSeek, Llama) |
+| **Infraestrutura & Governança** | Framework ITIL 4, Redes de Computadores, Linux, Docker, Fundamentos de Cibersegurança |
+| **Ferramentas & Metodologias** | Git, GitHub, Expressões Regulares (Regex), Automação de Pipelines, Metodologias Ágeis |
 
 ---
 
-### 💼 Experiência Profissional
+## Tecnologias em Destaque
 
-- **Agente de Serviço Aeroportuário** | `Dnata - Copa Airlines`\
-  *2023 – Presente*
-  - Desenvolvi habilidades de atendimento ao cliente em ambiente dinâmico, com foco na gestão de situações críticas, otimização de processos e garantia de uma experiência positiva para clientes VIP.
-
-- **Analista Administrativo / Suporte Técnico** | `TechSolutions Consultoria`\
-  *Setembro 2021 – Setembro 2023*
-  - Forneci suporte técnico de primeiro nível (hardware, software e redes), realizei o registro e acompanhamento de chamados e utilizei SQL para extração de dados e criação de relatórios gerenciais.
-
-- **Suporte Técnico em TI** | `Innovate Labs`\
-  *Maio 2020 – Setembro 2021*
-  - Atuei na resolução remota de incidentes técnicos, coleta e validação de dados para relatórios gerenciais e suporte direto aos usuários para garantir a continuidade das operações.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
+![ITIL v4](https://img.shields.io/badge/ITIL_v4-006699?style=flat-square&logo=itil&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 🏆 Projetos em Destaque
+## Projetos de Engenharia e Casos Práticos
 
-- **🚀 Aplicação Web para Gestão de Chamados de TI** - [Ver no GitHub](https://github.com/cauacaetano/helpdesk)
-  - Sistema de Help Desk para otimizar o fluxo de trabalho e o atendimento ao cliente.
-  - **Tecnologias:** HTML, CSS, JavaScript, PHP, SQL.
+### 1. AI Log Analyzer & Incident Diagnostic Engine
+* **Arquitetura:** Python | SQLite | Gemini API | Regex
+* **Descrição:** Ferramenta desenvolvida para parsing automatizado de logs de servidores de produção. A aplicação isola exceções críticas e consulta a API do Gemini para gerar diagnósticos de causa raiz e planos de mitigação alinhados ao ITIL.
+* **Impacto:** Redução expressiva no tempo de triagem e diagnóstico de incidentes operacionais.
 
-- **🛡️ Simulador de Redes para Testes de Segurança** - [Ver no GitHub](https://github.com/cauacaetano/Network-Security-Simulator)
-  - Ambiente virtual para simular ataques e testar vulnerabilidades em redes, aplicando conceitos práticos de cibersegurança.
-  - **Tecnologias:** Python.
+### 2. Sistema Web de Gestão de Chamados e Serviços de TI
+* **Arquitetura:** PHP | SQL | JavaScript | HTML5/CSS3
+* **Descrição:** Plataforma de Help Desk voltada para priorização técnica de chamados baseada na matriz de Impacto x Urgência (ITIL). Inclui modelagem relacional para controle de requisições e acompanhamento de SLAs.
+* **Repositório:** [Acessar Projeto no GitHub](https://github.com/cauacaetano/helpdesk)
 
-- **📊 Dashboard de BI para Análise de Vendas** - [Ver Exemplo](https://github.com/microsoft/Power-BI-Samples)
-  - Dashboard interativo para visualização de grandes volumes de dados de vendas, transformando dados brutos em insights estratégicos.
-  - **Tecnologias:** Power BI.
-
----
-
-### 📚 Formação Acadêmica
-
-- **Graduação em Engenharia da Computação**\
-  `Centro Universitário ENIAC` | *2022 – A concluir*
-
-- **Técnico em Análise e Desenvolvimento de Sistemas**\
-  `Centro Universitário ENIAC` | *2022 – 2024*
-
-- **Bacharelado em Engenharia de Telecomunicações** (Interrompido)\
-  `UNESP` | *2019 – 2022*
+### 3. Simulador de Redes e Testes de Segurança
+* **Arquitetura:** Python | Socket Programming | Protocolos de Rede
+* **Descrição:** Ambiente virtual desenvolvido para análise de tráfego, inspeção de pacotes e simulação de rotinas de verificação de vulnerabilidades em redes locais.
+* **Repositório:** [Acessar Projeto no GitHub](https://github.com/cauacaetano/Network-Security-Simulator)
 
 ---
 
-### 🏅 Certificações e Competências
+## Formação Acadêmica
 
-- **Cibersegurança:** Cyber Segurança (Fiap), Hackers do Bem (RNP/SENAI), Testes de Invasão e Análise de Vulnerabilidades.
-- **Dados:** Big Data & Analytics (Fiap), Business Intelligence (Fiap), Cloud Fundamentals (Fiap), EXCEL Avançado.
-- **Governança e Metodologias:** LGPD (Udemy), ITIL, Cobit, Scrum e Kanban.
-- **Idiomas:** Inglês (Avançado) e Espanhol (Avançado).
+* **Bacharelado em Engenharia da Computação** — Centro Universitário ENIAC *(Em andamento — Previsão 2027)*
+* **Técnico em Análise e Desenvolvimento de Sistemas** — Centro Universitário ENIAC *(2022 – 2024)*
+* **Bacharelado em Engenharia de Telecomunicações** — UNESP *(Disciplinas Cursadas 2019 – 2022)*
 
 ---
 
-### 📫 Conecte-se Comigo
+## Idiomas e Comunicação
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/cau%C3%A3-caetano-898033207/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="https://github.com/zDEVCz" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-  </a>
-  <a href="https://wa.me/qr/KKM6R5XIOEERH1" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:caua.caetano09@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-</p>
+* **Inglês:** Avançado / Proficiência Profissional
+* **Espanhol:** Avançado / Proficiência Profissional
+* **Português:** Nativo
